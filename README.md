@@ -22,11 +22,11 @@ Then the database was made using PostgreSQL on a local machine. After that, data
 
 In this assignment, we first investigated whether cardholders 2 and 18 were hacked. We cleaned up the data so that only their transactions were shown and plotted them against each other. Due to sudden bursts of expenditure in cardholder 18 sometimes in the amount of approximately $2000, it was found to be suspect, while the expenses of cardholder 2 seem to be fine:
 
-![expenditures of cardholders 2 and 18](c2c18.png)
+![expenditures of cardholders 2 and 18](c2c18..png)
 
 Next we looked at whether cardholder 25 was using her company's credit card in illegitmate ways for personal expenditures. Once again, we cleaned up the data by isolating her cards, and through a box plot we can see whether there are unusual expenditures and how often they occur:
 
-![expenditures of cardholder 25](c25.png)
+![expenditures of cardholder 25](c25..png)
 
 It seems as though there are a few outliers in the expenditures of cardholder 25. There is about one outlier per month, sometimes in the amount of over $1000. February did not have any but April had three outliers.
 
